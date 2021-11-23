@@ -1,2 +1,2 @@
 # Resume2
-for learning purpose
+for learning purposes
