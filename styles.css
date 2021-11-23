@@ -1,0 +1,178 @@
+body {
+  background-color: #FEF1E6;
+  margin: 0;
+  text-align: center;
+  font-family: 'merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Poiret One', cursive;
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Poiret One', cursive;
+  color: #11999E;
+}
+
+
+p {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  line-height: 2;
+  font-weight: bold;
+  display: absolute;
+}
+
+hr {
+  border: dotted #FFADAD 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+a {
+  color: #11999E;
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  font-weight: bolder;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FF0000;
+}
+.crop-hasanain {
+  width: 150px;
+  height: 150px;
+  margin-top: 70px;
+}
+.intro{ width:70%;
+  margin: auto;}
+.pro {
+  text-decoration: underline;
+}
+
+
+
+.top {
+  background-color: #FEF1E6;
+  position: relative;
+  padding: 0px;
+  margin-bottom: 0;
+}
+
+.middle-container {
+  background-color: white;
+  margin-top: 0;
+}
+
+.bottom-container {
+  background-color: #FFC286;
+  padding: ;
+}
+
+
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.html-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px ;
+}
+
+.photography-img{
+  width: 20%;
+  float: right;
+  margin-right: 30px ;
+}
+
+
+
+.watermelon-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px ;
+
+
+}
+
+.hummingbird-img{width: 10%}
+
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 0px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 100px;
+}
+
+.profile {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.contact-me {
+  background-color: ;
+  width: 40%;
+ margin: 10px auto 0 auto;;
+}
+
+.touch {
+  width: 100px;
+  height: 100px;
+}
+
+
+
+.btn {
+  background: #11cdd4;
+  background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Poiret One', cursive;
+	font-size:16px;
+	padding:9px 11px;
+	text-decoration:none;
+
+}
+
+
+/*contact-me2 */
+
+.div1{
+  margin-bottom: 0;
+
+}
+.div2{
+  margin: 0px 200px 100px 200px;
+
+  }
+
+  .dog-watermelon{width:20%}
